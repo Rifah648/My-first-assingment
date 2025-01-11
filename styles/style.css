@@ -324,3 +324,66 @@ nav{
 .margin{
   margin-bottom: 28px;
 }
+.margin-title{
+  margin-top: 25px;
+}
+.donate{
+  font-weight: bold;
+  font-size: 30px;
+}
+.bangladesh{
+  font-weight: 400px;
+  font-size: 16px;
+}
+.today{
+  text-align: center;
+}
+.box{
+  width: 200px;
+  height: 66px;
+  margin: 10px 0;
+  border: 2px solid black;
+  border-radius: 16px;
+  text-align: center;
+  
+  
+  
+}
+.box-200{
+background-color: #C6E4D6;
+border: #0E0E0E;
+}
+.box-container{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.money{
+  width: 880px;
+  height: 35px;
+  border-radius: 16px;
+  text-align: center;
+  margin-right: 40px;
+  margin-left: 250px;
+  color: #FFFFFF;
+  /* border: #0E0E0E; */
+
+}
+.done{
+  width: 151px;
+  height: 54px;
+  border-radius: 8px;
+  background-color: #006A50;
+  border: #0E0E0E;
+  color: #FFFFFF;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 600px;
+
+}
+.test{
+  margin-bottom: 15px;
+}
