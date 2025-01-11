@@ -366,7 +366,6 @@ border: #0E0E0E;
   margin-right: 40px;
   margin-left: 250px;
   color: #FFFFFF;
-  /* border: #0E0E0E; */
 
 }
 .done{
@@ -386,4 +385,47 @@ border: #0E0E0E;
 }
 .test{
   margin-bottom: 15px;
+}
+.news{
+  font-weight: bold;
+  font-size: 120px;
+  padding: 64px 0;
+  width: 622px;
+  height: 48px;
+}
+.nation{
+  font-weight: 400px;
+  font-size: 16px;
+}
+.good{
+  text-align: center;
+  
+}
+.email{
+  width: 600px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 300px;
+}
+.subs{
+  width: 150px;
+  height: 45px;
+  background-color: #006A50;
+  color: #FFFFFF;
+  
+}
+.spam{
+  text-align: center;
+  font-weight: 400px;
+  font-size: 16px;
+}
+.promise{
+  background-color: #C6E4D6;
+  border-radius: 24px;
+  width: 1280px;
+  height: 300px;
+}
+.foot{
+  padding-top: 30px;
 }
