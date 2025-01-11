@@ -252,6 +252,10 @@ nav{
   background-image: url("../assets/quote-bg.png");
   background-repeat: no-repeat;
   background-position: left top;
+  background-color: aliceblue;
+  border-radius: 16px;
+  box-shadow: #C6E4D6;
+
 }
 .people-title{
   font-weight: 600;
@@ -260,4 +264,63 @@ nav{
 .Republic{
   font-weight: 400;
   font-size: 16px;
+}
+.tecnology-tec{
+  font-weight: bold;
+  font-size: 40px;
+  width: 1280px;
+  height: 48px;
+}
+.tecnology-description{
+  font-weight: 400px;
+  font-size: 16px;
+  color: #0E0E0E;
+}
+.tecnology-container{
+  display: flex;
+  border-radius: 15px;
+  background-color: aliceblue;
+  gap: 20px;
+  box-shadow: #C6E4D6;
+}
+.tecnology-title{
+  font-weight: bold;
+  font-size: 32px;
+  width: 744px;
+  height: 30px;
+}
+.img{
+  width: 134px;
+  height: 40px;
+}
+.pic{
+  width: 408px;
+  height: 306px ;
+  border-top-right-radius: 24px;
+  border-bottom-right-radius: 24px;
+}
+.btn-style{
+  width: 139px;
+  height: 48px;
+  background-color: #006A50;
+  color: #FFFFFF;
+}
+.tecnology{
+  display: flex;
+  border-radius: 15px;
+  background-color: aliceblue;
+  gap: 20px;
+  box-shadow: #C6E4D6;
+
+
+}
+.picture{
+  width: 408px;
+  height: 306px ;
+  border-top-left-radius: 24px;
+  border-bottom-left-radius: 24px;
+
+}
+.margin{
+  margin-bottom: 28px;
 }
